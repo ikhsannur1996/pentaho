@@ -21,7 +21,7 @@ Before you begin, ensure you have the following prerequisites:
 
 2. **Install PDI**:
    - Extract the downloaded zip file to a folder of your choice.
-   - Run `spoon.bat` located in the PDI folder to start the PDI client.
+   - Run as administrator `spoon.bat` located in the PDI folder to start the PDI client.
 
 ### Mac
 
