@@ -9,6 +9,7 @@ This guide will walk you through the installation process for PDI on Windows, Ma
 Before you begin, ensure you have the following prerequisites:
 
 - Java Runtime Environment (JRE) 8 or higher installed.
+- Go to the official Java Website: [https://www.oracle.com/id/java/technologies/downloads/#java17](https://www.oracle.com/id/java/technologies/downloads/#java17)
 
 ## Installation
 
