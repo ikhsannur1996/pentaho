@@ -1,4 +1,4 @@
-# Installing Pentaho Data Integration (PDI)
+# Installing Pentaho Data Integration (PDI) Community Edition
 
 Pentaho Data Integration (PDI) is a powerful open-source ETL (Extract, Transform, Load) tool that allows you to extract data from various sources, transform it, and load it into different destinations.
 
