@@ -16,7 +16,7 @@ Before you begin, ensure you have the following prerequisites:
 ### Windows
 
 1. **Download Pentaho Data Integration**:
-   - Go to the official Pentaho website: [https://www.hitachivantara.com/en-us/products/data-integration.html](https://www.hitachivantara.com/en-us/products/data-integration.html)
+   - Go to the official Pentaho website: [https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html)
    - Download the Windows version of PDI (usually a .zip or .exe file).
 
 2. **Install PDI**:
@@ -26,7 +26,7 @@ Before you begin, ensure you have the following prerequisites:
 ### Mac
 
 1. **Download Pentaho Data Integration**:
-   - Go to the official Pentaho website: [https://www.hitachivantara.com/en-us/products/data-integration.html](https://www.hitachivantara.com/en-us/products/data-integration.html)
+   - Go to the official Pentaho website: [https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html)
    - Download the macOS version of PDI (usually a .tar.gz file).
 
 2. **Install PDI**:
@@ -38,7 +38,7 @@ Before you begin, ensure you have the following prerequisites:
 ### Linux
 
 1. **Download Pentaho Data Integration**:
-   - Go to the official Pentaho website: [https://www.hitachivantara.com/en-us/products/data-integration.html](https://www.hitachivantara.com/en-us/products/data-integration.html)
+   - Go to the official Pentaho website: [https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html)
    - Download the Linux version of PDI (usually a .tar.gz file).
 
 2. **Install PDI**:
