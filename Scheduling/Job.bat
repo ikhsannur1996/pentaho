@@ -1,0 +1,1 @@
+"D:\0 data-integration\kitchen.bat" /file:"D:\01 Sample Pentaho\Job\job 2.kjb" /level:Basic
